@@ -68,3 +68,10 @@ I'm a little interested in new opportunities at this time.
 - [Github](https://github.com/gkzz)
 - [Twitter](https://twitter.com/gkzvoice)
 - [Wantedly](https://www.wantedly.com/users/35022785)
+
+
+## Notes
+
+- This page is created with Github pages
+- The Repository
+    - [gkzz/gkzz.github.io](https://github.com/gkzz/gkzz.github.io/tree/source)
