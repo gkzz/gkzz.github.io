@@ -11,6 +11,8 @@ Hi, I'm Gakuji.
 
 I'm a little interested in new opportunities at this time.
 
+![me]({filename}images/gkz.png){:height="25%" width="25%"}
+
 
 ## Table of Contents
 
