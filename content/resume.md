@@ -56,11 +56,17 @@ I'm a little interested in new opportunities at this time.
     - Researcher
 
 
+### My Works
+
+- See the following;
+    - [Github](https://github.com/gkzz)
+
+
 ## Certifications
 
 - LinuC Level-1
 - Python 3 エンジニア認定基礎試験
-- The EIKEN Test in Practical English Proficiency
+- EIKEN (The EIKEN Test in Practical English Proficiency) Grade 2
 
 ## Contact
 
