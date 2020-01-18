@@ -16,7 +16,8 @@ gkz@localhost ~/gkzz.github.io $ . .src/init.sh
 
 Click the following for more
 
-- [01_quickstart.md](/docs/01_quickstart.md)
+- [01_quickstart.md](.src/docs/01_quickstart.md)
+- [02_make_pub.md](.src/docs/02_make_pub.md)
 
 
 ## Notes

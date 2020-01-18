@@ -60,6 +60,8 @@ I'm a little interested in new opportunities at this time.
 
 - See the following;
     - [Github](https://github.com/gkzz)
+    - [Qiita](https://qiita.com/gkzz)
+    - [Medium](https://medium.com/@gkzz)
 
 
 ## Certifications
