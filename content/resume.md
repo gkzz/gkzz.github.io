@@ -37,6 +37,10 @@ I'm a little interested in new opportunities at this time.
     - Ruby(Rails)
     - Stackstorm
     - Postgresql
+- Lightning Talks:
+    - [StackstormというIFTTT的なツールをDockerコンテナに載せた小話](https://speakerdeck.com/gkzz/stackstormtoiuiftttde-naturuwodockerkontenanizai-setaxiao-hua)
+    - [インフラエンジニアが考えてみた Mockの使いどころ](https://speakerdeck.com/gkzz/inhuraenziniagakao-etemita-mockfalseshi-idokoro)
+    - [QuickStartToGAS](https://speakerdeck.com/gkzz/quickstarttogas-445c4c75-c392-45bc-ace2-b74ead488ea9)
 - Corporate Site
     - [https://www.ap-com.co.jp/eng](https://www.ap-com.co.jp/eng)
 
