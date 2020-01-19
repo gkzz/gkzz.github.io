@@ -1,5 +1,8 @@
 # gkzz.github.io
 
+[gkzz.github.io](https://gkzz.github.io)
+
+
 Based on:
 - [PelicanとGitHub-pagesでブログ開設](https://kazukousen.github.io/python-pelican-install.html)
 - [Python製 Pelican を使ってサクッとブログを公開する](https://qiita.com/saira/items/71faa202efb4320cb41d)
