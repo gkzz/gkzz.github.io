@@ -13,6 +13,10 @@ I'm a little interested in new opportunities at this time.
 
 ![me]({static}images/gkz.png){:height="25%" width="25%"}
 
+![me]({static}images/lt_st2.png){:height="25%" width="25%"}
+
+![me]({static}images/lt_st2_review.png){:height="50%" width="50%"}
+
 
 ## Table of Contents
 

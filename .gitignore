@@ -136,3 +136,6 @@ dmypy.json
 # python
 37
 36
+
+# vscode
+.vscode
