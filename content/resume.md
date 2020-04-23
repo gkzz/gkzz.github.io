@@ -11,7 +11,7 @@ Hi, I'm Gakuji.
 
 I'm a little interested in new opportunities at this time.
 
-![me]({static}images/gkz.png){:height="25%" width="25%"}
+![me]({static}images/myProfile20200223.png){:height="25%" width="25%"}
 
 ![me]({static}images/lt_st2.png){:height="25%" width="25%"}
 
@@ -39,10 +39,14 @@ I'm a little interested in new opportunities at this time.
 - Software Engineer
 - Development of automation system for on-premises environment construction
 - Technology used:
-    - Python
-    - Ruby(Rails)
-    - Stackstorm
-    - Postgresql
+    - CentOS 7.6
+    - Python 2.7.5
+    - Ruby 2.3
+    - Rails 5.1.3
+    - StackStorm 2.7.2
+    - PostgreSQL 9.2.24
+    - MongoDB 3.4.17
+    - RabbitMQ 3.6.5
 - Lightning Talks:
     - [StackstormというIFTTT的なツールをDockerコンテナに載せた小話](https://speakerdeck.com/gkzz/stackstormtoiuiftttde-naturuwodockerkontenanizai-setaxiao-hua)
     - [インフラエンジニアが考えてみた Mockの使いどころ](https://speakerdeck.com/gkzz/inhuraenziniagakao-etemita-mockfalseshi-idokoro)
