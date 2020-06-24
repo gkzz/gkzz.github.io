@@ -36,7 +36,7 @@ I'm a little interested in new opportunities at this time.
 
 ### AP Communications Co., Ltd. (Novemver 2018 - Present)
 
-- Software Engineer
+- Software Developer
 - Development of automation system for on-premises environment construction
 - Technology used:
     - CentOS 7.6
@@ -81,13 +81,14 @@ I'm a little interested in new opportunities at this time.
 
 ## Certifications
 
+- AWS Certified Solutions Architect – Associate(SAA-C02)
 - LinuC Level-1
 - Python 3 エンジニア認定基礎試験
 - EIKEN (The EIKEN Test in Practical English Proficiency) Grade 2
 
 ## Contact
 
-- [Linkedin](www.linkedin.com/in/gakujitamaki)
+- [Linkedin](https://www.linkedin.com/in/gakujitamaki)
 - [Github](https://github.com/gkzz)
 - [Twitter](https://twitter.com/gkzvoice)
 - [Wantedly](https://www.wantedly.com/users/35022785)
