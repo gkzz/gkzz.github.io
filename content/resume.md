@@ -81,6 +81,7 @@ I'm a little interested in new opportunities at this time.
 
 ## Certifications
 
+- Microsoft Certified: Azure Fundamentals(AZ-900)
 - AWS Certified Solutions Architect – Associate(SAA-C02)
 - LinuC Level-1
 - Python 3 エンジニア認定基礎試験

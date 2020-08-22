@@ -15,8 +15,8 @@ Publish it!
 ```
 $ make publish
 $ ghp-import output
-$ ga output
-$ gc "first" output
+$ git add output
+$ git commit -m  "first" output
 $ git push -f origin gh-pages:master
 ```
 
@@ -24,7 +24,7 @@ $ Git push files published only on my repository
 
 ```
 $ git checkout $branchname (e.g. source)
-$ ga $file
-$ gc "msg" $files
-$ gpu source
+$ git add $file
+$ git commit -m "msg" $files
+$ git push -u origin source
 ```
