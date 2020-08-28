@@ -36,8 +36,23 @@ I'm a little interested in new opportunities at this time.
 
 ### AP Communications Co., Ltd. (Novemver 2018 - Present)
 
-- Software Developer
-- Development of automation system for on-premises environment construction
+- Corporate Site
+    - [https://www.ap-com.co.jp/eng](https://www.ap-com.co.jp/eng)
+
+#### Development of automation system for on-premises environment construction (Novemver 2018 - June 2020)
+- Postion
+  - Software Developer
+
+- Technology used:
+    - Ubuntu 16.04
+    - Python 3.5
+    - Django 2.2
+    - PostgreSQL 9.6
+
+#### Development of automation system for on-premises environment construction (uly 2020 - Present)
+- Postion
+  - Software Developer
+
 - Technology used:
     - CentOS 7.6
     - Python 2.7.5
@@ -47,27 +62,28 @@ I'm a little interested in new opportunities at this time.
     - PostgreSQL 9.2.24
     - MongoDB 3.4.17
     - RabbitMQ 3.6.5
-- Lightning Talks:
-    - [StackstormというIFTTT的なツールをDockerコンテナに載せた小話](https://speakerdeck.com/gkzz/stackstormtoiuiftttde-naturuwodockerkontenanizai-setaxiao-hua)
-    - [インフラエンジニアが考えてみた Mockの使いどころ](https://speakerdeck.com/gkzz/inhuraenziniagakao-etemita-mockfalseshi-idokoro)
-    - [QuickStartToGAS](https://speakerdeck.com/gkzz/quickstarttogas-445c4c75-c392-45bc-ace2-b74ead488ea9)
+
+#### Lightning Talks:
+- [StackstormというIFTTT的なツールをDockerコンテナに載せた小話](https://speakerdeck.com/gkzz/stackstormtoiuiftttde-naturuwodockerkontenanizai-setaxiao-hua)
+- [インフラエンジニアが考えてみた Mockの使いどころ](https://speakerdeck.com/gkzz/inhuraenziniagakao-etemita-mockfalseshi-idokoro)
+- [QuickStartToGAS](https://speakerdeck.com/gkzz/quickstarttogas-445c4c75-c392-45bc-ace2-b74ead488ea9)
 - Corporate Site
     - [https://www.ap-com.co.jp/eng](https://www.ap-com.co.jp/eng)
 
 ### Bigweb Inc. (July 2017 - August 2018)
 
-- Role
-    - Business Development
-    - Researcher
 - Corporate Site
     - [http://bigw.jp](http://bigw.jp)
 
+#### Business Development
+- postion
+  - Researcher
 
 ### Demic Corporation (April 2015 - May 2017)
 
-- Role
-    - Business Development
-    - Researcher
+#### Business Development
+- Position
+  - Researcher
 
 
 ### My Works
