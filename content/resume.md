@@ -1,5 +1,5 @@
 Title: Resume
-Date: 2020-01-14
+Date: 2021-01-03
 
 Hi, I'm Gakuji.
 
@@ -39,9 +39,9 @@ I'm a little interested in new opportunities at this time.
 - Corporate Site
     - [https://www.ap-com.co.jp/eng](https://www.ap-com.co.jp/eng)
 
-#### Development of automation system for on-premises environment construction (Novemver 2018 - June 2020)
+#### Development of in-house applications (Novemver 2018 - June 2020)
 - Postion
-  - Software Developer
+  - Application with Django Developer
 
 - Technology used:
     - Ubuntu 16.04
@@ -49,9 +49,9 @@ I'm a little interested in new opportunities at this time.
     - Django 2.2
     - PostgreSQL 9.6
 
-#### Development of automation system for on-premises environment construction (uly 2020 - Present)
+#### Development of automation system for on-premises environment construction (Novemver 2018 - July 2020)
 - Postion
-  - Software Developer
+  - Stackstorm Custom Pack Developer
 
 - Technology used:
     - CentOS 7.6
@@ -99,7 +99,7 @@ I'm a little interested in new opportunities at this time.
 
 - Microsoft Certified: Azure Fundamentals(AZ-900)
 - AWS Certified Solutions Architect – Associate(SAA-C02)
-- LinuC Level-1
+- LinuC Level-2
 - Python 3 エンジニア認定基礎試験
 - EIKEN (The EIKEN Test in Practical English Proficiency) Grade 2
 
