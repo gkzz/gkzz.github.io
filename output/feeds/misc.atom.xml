@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>gkz - misc</title><link href="https://gkzz.github.io/" rel="alternate"></link><link href="https://gkzz.github.io/feeds/misc.atom.xml" rel="self"></link><id>https://gkzz.github.io/</id><updated>2020-01-14T00:00:00+09:00</updated><entry><title>Resume</title><link href="https://gkzz.github.io/resume.html" rel="alternate"></link><published>2020-01-14T00:00:00+09:00</published><updated>2020-01-14T00:00:00+09:00</updated><author><name>gkzz</name></author><id>tag:gkzz.github.io,2020-01-14:/resume.html</id><summary type="html">&lt;p&gt;Hi, I'm Gakuji.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>gkz - misc</title><link href="https://gkzz.github.io/" rel="alternate"></link><link href="https://gkzz.github.io/feeds/misc.atom.xml" rel="self"></link><id>https://gkzz.github.io/</id><updated>2021-01-03T00:00:00+09:00</updated><entry><title>Resume</title><link href="https://gkzz.github.io/resume.html" rel="alternate"></link><published>2021-01-03T00:00:00+09:00</published><updated>2021-01-03T00:00:00+09:00</updated><author><name>gkzz</name></author><id>tag:gkzz.github.io,2021-01-03:/resume.html</id><summary type="html">&lt;p&gt;Hi, I'm Gakuji.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;Based in: Tokyo, Japan&lt;/p&gt;
@@ -58,11 +58,11 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;Development of automation system for on-premises environment construction (Novemver 2018 - June 2020)&lt;/h4&gt;
+&lt;h4&gt;Development of in-house applications (Novemver 2018 - June 2020)&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;Postion&lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Software Developer&lt;/p&gt;
+&lt;p&gt;Application with Django Developer&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Technology used:&lt;/p&gt;
@@ -74,11 +74,11 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;Development of automation system for on-premises environment construction (uly 2020 - Present)&lt;/h4&gt;
+&lt;h4&gt;Development of automation system for on-premises environment construction (Novemver 2018 - July 2020)&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;Postion&lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Software Developer&lt;/p&gt;
+&lt;p&gt;Stackstorm Custom Pack Developer&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Technology used:&lt;/p&gt;
@@ -136,7 +136,7 @@
 &lt;ul&gt;
 &lt;li&gt;Microsoft Certified: Azure Fundamentals(AZ-900)&lt;/li&gt;
 &lt;li&gt;AWS Certified Solutions Architect – Associate(SAA-C02)&lt;/li&gt;
-&lt;li&gt;LinuC Level-1&lt;/li&gt;
+&lt;li&gt;LinuC Level-2&lt;/li&gt;
 &lt;li&gt;Python 3 エンジニア認定基礎試験&lt;/li&gt;
 &lt;li&gt;EIKEN (The EIKEN Test in Practical English Proficiency) Grade 2&lt;/li&gt;
 &lt;/ul&gt;
