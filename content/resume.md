@@ -39,7 +39,7 @@ I'm a little interested in new opportunities at this time.
 - Corporate Site
     - [https://www.ap-com.co.jp/eng](https://www.ap-com.co.jp/eng)
 
-#### Development of in-house applications (Novemver 2018 - June 2020)
+#### Development of in-house applications (July 2020 - Present)
 - Postion
   - Application with Django Developer
 
